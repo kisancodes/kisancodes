@@ -33,7 +33,6 @@ I am an _Backend Developer_, _programmer_ , _motivator_, and _blogger_.
   <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
   <img src ="./images/express.svg" alt="express logo" width="8%" title='Express'/>
   <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
-  <img src ="./images/mysql.svg" alt="mysql logo" width="8%" title='MYSQL'/>
   <img src ="./images/python.svg" alt="Python logo" width="8%" title='Python'/>
 </div>
 
