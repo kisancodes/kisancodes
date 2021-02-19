@@ -10,8 +10,9 @@
 
 </div>
 
-I am an _Backend Developer_, _programmer_ , _motivator_, and _blogger_ .
-Technologies which I use:
+I am an _Backend Developer_, _programmer_ , _motivator_, and _blogger_.
+
+## Technologies which I use:
 
 ### Frontend Technologies
 
