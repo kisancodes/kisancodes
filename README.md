@@ -3,16 +3,15 @@
 ## I'm Kisan Tamang
 
 <div>
-<a href="https://www.linkedin.com/in/asabeneh" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
-<a href="https://twitter.com/Asabene" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title='@Asabeneh'></a>
-<a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
+<a href="https://www.linkedin.com/in/kisantamang" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
+<a href="https://twitter.com/kisanpakhreen" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title='@Asabeneh'></a>
 
 ![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
 
 </div>
 
 I am an _Backend Developer_, _programmer_ , _motivator_, and _blogger_ .
-Technologies which I teach and use:
+Technologies which I use:
 
 ### Frontend Technologies
 
@@ -23,10 +22,8 @@ Technologies which I teach and use:
   <img src ="./images/sass.svg" alt="Sass logo" width="8%" title='Sass'/>
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="8%" title='JavaScript'/>
   <img src ="./images/es6.svg" alt="ES6 logo" width="8%" title='ES6'/>
-  <img src ="./images/d3.svg" alt="D3 logo" width="8%" title='D3.js'/>
   <img src ="./images/react.svg" alt="react logo" width="8%" title='React'/>
   <img src ="./images/redux.svg" alt="redux logo" width="8%" title='Redux'/>
-  <img src ="./images/gatsby.svg" alt="Gatsby logo" width="8%" title='Gatsby'/>
 <div>
 
 ### Backend Technologies
@@ -36,10 +33,7 @@ Technologies which I teach and use:
   <img src ="./images/express.svg" alt="express logo" width="8%" title='Express'/>
   <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
   <img src ="./images/mysql.svg" alt="mysql logo" width="8%" title='MYSQL'/>
-  <img src ="./images/sqlite.svg" alt="sqlite logo" width="8%" title='sqlite'/>
   <img src ="./images/python.svg" alt="Python logo" width="8%" title='Python'/>
-  <img src ="./images/flask.svg" alt="Flask logo" width="8%" title='Flask'/>
-  <img src ="./images/django.svg" alt="Django logo" width="8%" title='Django'/>
 </div>
 
 ### Tools
@@ -51,15 +45,6 @@ Technologies which I teach and use:
   <img src ="./images/eslint.svg" alt="ESLint logo" width="8%" title='ESLint'/>
   <img src ="./images/webpack.svg" alt="Webpack logo" width="8%" title='Webpack'/>
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="8%" title='Nodemon'/> 
-</div>
-
-<small>
- I usually try to produce a jargon free educational materials.
-</small>
-
-<div>
-<small>Support the <strong>author</strong> to create more educational materials</small> <br />  
-<a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
 </div>
 
 <!-- ## Tech Stacks
