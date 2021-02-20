@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/kisantamang" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
 <a href="https://twitter.com/kisanpakhreen" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title='@Asabeneh'></a>
 
-![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
+![](https://komarev.com/ghpvc/?username=kisancodes&color=green)
 
 </div>
 
