@@ -5,7 +5,7 @@
 <div>
 <a href="https://www.linkedin.com/in/kisantamang" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
 <a href="https://twitter.com/kisanpakhreen" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title='@Asabeneh'></a>
-<a href="paypal.me/KhajindraG"><img height="32" src="./images/paypal.png" width="8%" alt="PayPal"/></a>
+<a href="https://paypal.me/KhajindraG?locale.x=en_GB"><img height="32" src="./images/paypal.svg" width="8%" alt="PayPal"/></a>
 
 ![](https://komarev.com/ghpvc/?username=kisancodes&color=green)
 
@@ -46,7 +46,7 @@ I am an _Backend Developer_, _programmer_ , and _blogger_.
   <img src ="./images/git.svg" alt="Git logo" width="8%" title='Git'/>
   <img src ="./images/eslint.svg" alt="ESLint logo" width="8%" title='ESLint'/>
   <img src ="./images/webpack.svg" alt="Webpack logo" width="8%" title='Webpack'/>
-  <img src ="./images/nodemon.svg" alt="Nodemon logo" title='Nodemon'/> 
+  <img src ="./images/nodemon.svg" alt="Nodemon logo" witdh="8%" title='Nodemon'/> 
 </div>
 
 <!-- ## Tech Stacks
