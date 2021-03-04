@@ -5,7 +5,7 @@
 <div>
 <a href="https://www.linkedin.com/in/kisantamang" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>&nbsp;
 <a href="https://twitter.com/kisanpakhreen" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title='@Asabeneh'></a>&nbsp;
-<a href="https://paypal.me/KhajindraG?locale.x=en_GB"><img height="32" src="./images/PayPal.svg" width="8%" alt="PayPal"/></a>&nbsp;
+<a href="https://paypal.me/KhajindraG?locale.x=en_GB"><img height="32" src="./images/PayPal.svg" alt="PayPal"/></a>&nbsp;
 
 ![](https://komarev.com/ghpvc/?username=kisancodes&color=green)
 
