@@ -46,7 +46,7 @@ I am an _Backend Developer_, _programmer_ , and _blogger_.
   <img src ="./images/git.svg" alt="Git logo" width="8%" title='Git'/>
   <img src ="./images/eslint.svg" alt="ESLint logo" width="8%" title='ESLint'/>
   <img src ="./images/webpack.svg" alt="Webpack logo" width="8%" title='Webpack'/>
-  <img src ="./images/nodemon.svg" alt="Nodemon logo" width="5%" title='Nodemon'/> 
+  <img src ="./images/nodemon.svg" alt="Nodemon logo" title='Nodemon'/> 
 </div>
 
 <!-- ## Tech Stacks
