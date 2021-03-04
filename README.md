@@ -11,7 +11,7 @@
 
 </div>
 
-I am an _Backend Developer_, _programmer_ , _motivator_, and _blogger_.
+I am an _Backend Developer_, _programmer_ , and _blogger_.
 
 ## Technologies which I use:
 
