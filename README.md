@@ -5,6 +5,7 @@
 <div>
 <a href="https://www.linkedin.com/in/kisantamang" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
 <a href="https://twitter.com/kisanpakhreen" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title='@Asabeneh'></a>
+<a href="paypal.me/KhajindraG"><img height="32" src="./images/paypal.png" alt="PayPal"/></a>
 
 ![](https://komarev.com/ghpvc/?username=kisancodes&color=green)
 
