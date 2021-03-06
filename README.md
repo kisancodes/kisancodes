@@ -29,11 +29,11 @@ I am an _Backend Developer_, _programmer_ , and _blogger_.
 ### Backend Technologies
 
 <div>
+    <img src="./images/aws.svg" alt="AWS Logo" width="8%" title="AWS">
   <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
   <img src ="./images/express.svg" alt="express logo" width="8%" title='Express'/>
   <img src ="./images/mongodb.svg" alt="Mongo logo" width="8%" title='MongoDB'/>
   <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
-  <img src="./images/aws.svg" alt="AWS Logo" width="8%" title="AWS">
 </div>
 
 ### Tools
