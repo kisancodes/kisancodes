@@ -22,7 +22,7 @@ I am an _Backend Developer_, _programmer_ , and _blogger_.
   <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="8%" title='Bootstrap'/>
   <img src ="./images/sass.svg" alt="Sass logo" width="8%" title='Sass'/>
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="8%" title='JavaScript'/>
-  <img src ="./images/es6.svg" alt="ES6 logo" width="8%" title='ES6'/>
+  <img src ="./images/es6.svg" alt="ES6 logo" width="16%" title='ES6'/>
   <img src ="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width = "8%" title="react"/>
 <div>
 
