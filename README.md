@@ -1,6 +1,6 @@
 # Hi, I am Kisan. 👋
 
-## A Developer with Passion for Serverless,DevOps & Automation.
+## A Developer with Passion for Serverless, DevOps & Automation.
 
 <div>
 <a href="https://www.linkedin.com/in/kisantamang" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>&nbsp;
